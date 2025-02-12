@@ -50,7 +50,6 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yigitcobanoglu&theme=dark&background=000000)](https://git.io/streak-stats)
 
