@@ -22,7 +22,7 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: I usually play games in my spare time
 
-- :mailbox:How to reach me: yigitcobanoglu350@gmail.com
+- :mailbox:How to reach me:
 
 ---
 
